@@ -12,7 +12,7 @@ class PutAsterisk1 {
 
 		int i = 0;
 		while (i < n) {
-			System.out.print('*');
+			System.out.print('*'); //char型　文字リテラル　"*" String型　文字列リテラル
 			i++;
 		}
 		System.out.println();
