@@ -13,6 +13,6 @@ class DecimalFloat {
 		System.out.print("実数y：");
 		double y = stdIn.nextDouble();
 
-		System.out.printf("x =%3d  y =%6.2f\n", x, y);
+		System.out.printf("x =%3d\ny =%6.2f\n", x, y);
 	}
 }

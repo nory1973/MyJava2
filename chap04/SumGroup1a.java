@@ -14,7 +14,7 @@ class SumGroup1a {
 		for (int i = 1; i <= 10; i++) {
 			System.out.println("■第" + i + "グループ");
 			int sum = 0;	// グループの小計
-		Inner:
+//		Inner:
 			for (int j = 0; j < 5; j++) {
 				System.out.print("整数：");
 				int t = stdIn.nextInt();
